@@ -7,15 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigBraim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<div align="center">  
+<a href="https://www.linkedin.com/in/brayan-pletsch-b5953128b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
+
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BigBraim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">  
-<a href="https://www.instagram.com/brayan_pletsch/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
 
 ### Habilidades Principais:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -44,7 +43,7 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
 <br></div>
   
