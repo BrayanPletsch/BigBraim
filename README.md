@@ -8,12 +8,12 @@
 </div>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/brayan-pletsch-b5953128b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/brayan-pletsch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrayanPletsch&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BrayanPletsch&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Habilidades Principais:
